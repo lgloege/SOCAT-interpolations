@@ -2,7 +2,11 @@
 
 _models to gap-fill ocean pCO2 observations_
 
-==============
+## Structure
+- `build` = train, eval., and test your model
+- `data` = raw/processed data is here
+- `models` = final models are here
+- `results` = results such as figures and reports are here
 
 ## Data Sources 
 - SOCAT : [https://www.socat.info](https://www.socat.info)
@@ -12,11 +16,3 @@ _models to gap-fill ocean pCO2 observations_
 - Chl-a : [http://www.globcolour.info](http://www.globcolour.info)
 - xCO2 : [https://www.esrl.noaa.gov/gmd/ccgg/mbl/](https://www.esrl.noaa.gov/gmd/ccgg/mbl/)
 
-==============
-
-## Directory structure
-- `data` = raw/processed data is here
-- `models` = final models are here
-- `notebooks` = data exploration and model training/testing is done here
-- `references` = model documentation is here
-- `results` = final results such as figures and reports are here

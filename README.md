@@ -7,6 +7,7 @@ _models to gap-fill ocean pCO2 observations_
 - `data` = raw/processed data is here
 - `models` = final models are here
 - `results` = results such as figures and reports are here
+- `utiles` = utilities folder
 
 ## Data Sources 
 - SOCAT : [https://www.socat.info](https://www.socat.info)
